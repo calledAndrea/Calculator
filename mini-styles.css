@@ -1,0 +1,81 @@
+.result{
+    grid-area: result;
+}
+
+.clear {
+    grid-area: clear;
+}
+
+.backspace{
+    grid-area: backspace;
+}
+
+.main-plus{
+    grid-area: mainplus;
+}
+
+.main-9{
+    grid-area: main9;
+}
+
+.main-8{
+    grid-area: main8;
+}
+
+.main-7{
+    grid-area: main7;
+}
+
+.main-minus{
+    grid-area: mainminus;
+}
+
+.main-6{
+    grid-area: main6;
+}
+
+.main-5{
+    grid-area: main5;
+}
+
+.main-4{
+    grid-area: main4;
+}
+
+.main-times{
+    grid-area: maintimes;
+}
+
+.main-3{
+    grid-area: main3;
+}
+
+.main-2{
+    grid-area: main2;
+}
+
+.main-1{
+    grid-area: main1;
+}
+
+.main-divide{
+    grid-area: maindivide;
+}
+
+.main-0{
+    grid-area: main0;
+}
+
+.main-dec{
+    grid-area: maindec;
+}
+
+.enter{
+    grid-area: enter;
+}
+
+
+
+
+
+
